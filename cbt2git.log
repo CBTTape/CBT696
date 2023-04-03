@@ -1,0 +1,9 @@
+2023-04-03 02:02:01.780844 - Initialized conversion of CBT696
+2023-04-03 02:02:01.828326 - Received CBT.V504.FILE696.PDS from FILE696.XMI 
+2023-04-03 02:02:01.831158 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE696.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:02:01.832500 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE696.PDS, moved to PDS/$$NOTE1
+2023-04-03 02:02:01.833832 - Found $DOC.txt (text/plain) in CBT.V504.FILE696.PDS, moved to PDS/$DOC
+2023-04-03 02:02:01.835048 - Found @FILE696.txt (text/plain) in CBT.V504.FILE696.PDS, moved to PDS/@FILE696
+2023-04-03 02:02:01.836410 - Found RECEIVE.jcl (text/plain) in CBT.V504.FILE696.PDS, moved to PDS/RECEIVE
+2023-04-03 02:02:02.191376 - Found TARFILE.xmi (application/xmit) in CBT.V504.FILE696.PDS
+2023-04-03 02:02:02.195637   - Received to CBT696/FLEXES.TAR
